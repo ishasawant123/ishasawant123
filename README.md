@@ -52,8 +52,11 @@ A responsive portfolio website showcasing my projects, technical skills, certifi
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishasawant123&show_icons=true&theme=default&hide_border=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishasawant123&layout=compact&theme=default&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=ishasawant123&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishasawant123&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
