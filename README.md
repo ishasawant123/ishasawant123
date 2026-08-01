@@ -15,8 +15,8 @@ B.Sc. Computer Science Graduate with a strong interest in Software Development a
 **Languages**
 - Python
 - JavaScript
-- HTML5
-- CSS3
+- HTML
+- CSS
 - SQL
 
 **Frameworks & Libraries**
@@ -49,7 +49,7 @@ A cybersecurity learning platform featuring educational resources, quizzes, and 
 ### Password Strength Checker
 A web application that analyzes password strength and provides security recommendations.
 
-**Tech Stack:** Python, Flask
+**Tech Stack:** Python, Flask, CSS, HTML
 
 ---
 
@@ -66,10 +66,12 @@ A responsive personal portfolio showcasing projects, technical skills, and achie
 - Cybersecurity
 - Python Development
 - Flask
+- Computer Network
 - Git & GitHub
 - Web Security
 
 ## Connect With Me
 
-- LinkedIn
-- Email
+- LinkedIn: www.linkedin.com/in/isha-sawant-39176b3b4
+
+- Email: ishasawant233@gmail.com
