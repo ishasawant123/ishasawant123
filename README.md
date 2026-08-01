@@ -1,77 +1,70 @@
-# Hi, I'm Isha Sawant 👋
+<h1 align="center">Hi 👋, I'm Isha Sawant</h1>
 
-B.Sc. Computer Science Graduate with a strong interest in Software Development and Cybersecurity. I enjoy building practical web applications, exploring security concepts, and continuously improving my technical skills through hands-on projects.
+<p align="center">
+  <b>Aspiring Software Developer | Cybersecurity Enthusiast</b><br>
+  B.Sc. Computer Science Graduate (CGPA: 9.52/10)
+</p>
 
-## About Me
+---
 
-- 🎓 B.Sc. Computer Science Graduate (CGPA: 9.52/10)
-- 💻 Aspiring Software Developer
-- 🔐 Cybersecurity Enthusiast
+## 👩‍💻 About Me
+
+- 🎓 B.Sc. Computer Science Graduate from the University of Mumbai
+- 💻 Passionate about Software Development and Cybersecurity
 - 🌱 Currently learning Ethical Hacking, Flask, and Full-Stack Development
-- 🎯 Looking for Software Development and Cybersecurity Internship opportunities
-
-## Technical Skills
-
-**Languages**
-- Python
-- JavaScript
-- HTML
-- CSS
-- SQL
-
-**Frameworks & Libraries**
-- Flask
-- Bootstrap
-- Tailwind CSS
-
-**Databases**
-- MySQL
-- MongoDB
-
-**Tools**
-- Git
-- GitHub
-- VS Code
-- Wireshark
-- FTK Imager
-- XAMPP
-- Eclipse IDE
-
-## Featured Projects
-
-### CyberNOVA Academy
-A cybersecurity learning platform featuring educational resources, quizzes, and interactive content.
-
-**Tech Stack:** Python, Flask, MySQL, HTML, CSS, JavaScript
+- 🚀 Building practical projects to strengthen my development and security skills
+- 🎯 Seeking Software Development and Cybersecurity Internship opportunities
 
 ---
 
-### Password Strength Checker
-A web application that analyzes password strength and provides security recommendations.
+## 💻 Tech Stack
 
-**Tech Stack:** Python, Flask, CSS, HTML
+<p>
+  <img src="https://skillicons.dev/icons?i=python,flask,html,css,js,mysql,mongodb,git,github,vscode,bootstrap,tailwind" />
+</p>
 
 ---
 
-### Portfolio Website
-A responsive personal portfolio showcasing projects, technical skills, and achievements.
+## 🚀 Featured Projects
 
-## Certifications
+### 🔐 CyberNOVA Academy
+A cybersecurity learning platform with educational resources, quizzes, and interactive learning modules.
+
+**Tech Stack:** Python • Flask • MySQL • HTML • CSS • JavaScript
+
+### 🔑 Password Strength Checker
+A Flask-based web application that evaluates password strength and encourages secure password practices.
+
+**Tech Stack:** Python • Flask • HTML • CSS
+
+### 🌐 Personal Portfolio
+A responsive portfolio website showcasing my projects, technical skills, certifications, and achievements.
+
+---
+
+## 📜 Certifications
 
 - Cisco Networking Academy – Introduction to Cybersecurity
 - Cisco Networking Academy – Ethical Hacking *(In Progress)*
 
-## Currently Learning
+---
 
-- Cybersecurity
-- Python Development
-- Flask
-- Computer Network
-- Git & GitHub
-- Web Security
+## 📊 GitHub Statistics
 
-## Connect With Me
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ishasawant123&show_icons=true&theme=default&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishasawant123&layout=compact&theme=default&hide_border=true" height="165">
+</p>
 
-- LinkedIn: www.linkedin.com/in/isha-sawant-39176b3b4
+---
 
-- Email: ishasawant233@gmail.com
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/isha-sawant-39176b3b4/
+- 📧 Email: ishasawant233@gmail.com
+
+---
+
+<p align="center">
+  <i>"Always learning, always building."</i>
+</p>
